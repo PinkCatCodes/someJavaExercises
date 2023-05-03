@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Session4new.iml" filepath="$PROJECT_DIR$/Session4new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise402/exercise402.iml" filepath="$PROJECT_DIR$/exercise402/exercise402.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise403/exercise403.iml" filepath="$PROJECT_DIR$/exercise403/exercise403.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise405/exercise405.iml" filepath="$PROJECT_DIR$/exercise405/exercise405.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise406/exercise406.iml" filepath="$PROJECT_DIR$/exercise406/exercise406.iml" />
+    </modules>
+  </component>
+</project>
